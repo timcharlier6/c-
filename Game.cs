@@ -1,6 +1,6 @@
 public partial class Game
 {
-  public void Play()
+  public static void Play()
   {
     Random dice = new Random();  
     int roll1 = dice.Next(1, 7);

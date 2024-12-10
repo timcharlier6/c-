@@ -4,12 +4,13 @@ class Program
   static void Main(string[] args)
   {
 
-    HelloCSharp();
-    RollDice();
-    playGame();
-    maxNumber();
-    foreachLoop();
-    reverseString();
+    //HelloCSharp();
+    //maxNumber();
+    //reverseString();
+    //Game.Play();
+    //Coin.Flip();
+    //ForEach.ForEachLoop([1, 2, 4]);
+    BoolCheck.hasPermission();
 
   }
 
@@ -19,31 +20,12 @@ class Program
     Console.WriteLine("Hello C#!");
   }
 
-  public static void RollDice()
-  {
-    // Stateful method need to be instanciated.
-    Random dice = new Random();
-    int roll = dice.Next(1, 7);
-    Console.WriteLine(roll);
-  }
-
-  public static void playGame()
-  {
-    Game game = new Game();
-    game.Play();
-  }
 
   public static void maxNumber()
   {
     Console.WriteLine(Math.Max(100, 200));
   }
 
-  public static void foreachLoop()
-  {
-    ForEach forEach = new ForEach();
-    int sum = forEach.ForEachLoop([30, 50, 100]);
-    Console.WriteLine(sum);
-  } 
 
   public static void reverseString()
   {

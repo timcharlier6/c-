@@ -21,11 +21,40 @@ On VS Code:
 - Build (if needed) and runs the application directly:
   `dotnet run`
 
-### Lexic
+
+### Définition des concepts
 
 - . member access operator
 - () method invocation operators 
 - overloaded methods signatures can be called different ways to behave differently.
+- **Donnée** : Une donnée est une valeur présente dans la mémoire de l'ordinateur sous forme de bits.
+
+- **Variable** : Une variable est un label pour une donnée, comme un nom de domaine en quelque sorte.
+
+- **Type de donnée** : Un type de donnée est une façon de déterminer la quantité de mémoire que l'ordinateur va allouer à une donnée.
+
+---
+
+### Types de données
+Il y a deux types de types de données :
+1. **Variables de référence** : La variable contient un pointeur vers une valeur. Strings, arrays, classes. Stored in the heap.
+2. **Variables de valeur** : La variable contient directement la valeur. Stored in the stack.
+
+---
+
+### Signed Integer
+Un signed integer est un nombre entier qui représente un nombre de positifs et de négatifs égal.
+
+### Unsigned Integer
+
+Un unsigned integer est un nombre entier qui représente seulement les nombres de positifs.
+
+### Floating-Point
+
+Un float est un nombre décimal. Il faut considérer le nombre de chiffre après la virgule et comment cela affecte les opérations.
+5E+2 = 500
+
+
 
 ### Formatting
 

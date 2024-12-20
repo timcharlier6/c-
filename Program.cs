@@ -1,4 +1,6 @@
 ﻿
+using System.Diagnostics;
+
 class Program
 {
   static void Main(string[] args)
@@ -10,7 +12,16 @@ class Program
     //Game.Play();
     //Coin.Flip();
     //ForEach.ForEachLoop([1, 2, 4]);
-    BoolCheck.hasPermission();
+    //BoolCheck.hasPermission();
+    //BoolBlock.start();
+    //SwitchCase.start();
+    //FizzBuzz.start();
+    //DoWhile.start();
+    //Pizza.start();
+    //TryParse.start();
+    //ValidEntry.start();
+    //Numbers.start();
+    //VariablesTypes.start();
 
   }
 

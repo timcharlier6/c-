@@ -22,7 +22,7 @@ class Program
     //ValidEntry.start();
     //Numbers.start();
     //VariablesTypes.start();
-
+    DataTypesException.start();
   }
 
   public static void HelloCSharp()

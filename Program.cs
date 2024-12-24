@@ -1,4 +1,5 @@
 ﻿
+using System.ComponentModel;
 using System.Diagnostics;
 
 class Program
@@ -22,7 +23,9 @@ class Program
     //ValidEntry.start();
     //Numbers.start();
     //VariablesTypes.start();
-    DataTypesException.start();
+    //DataTypesException.start();
+    Convertion.Start1();
+    Convertion.Start2();
   }
 
   public static void HelloCSharp()

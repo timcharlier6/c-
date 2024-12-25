@@ -29,7 +29,9 @@ class Program
     //ArrayOperations.SortReverse();
     //ArrayOperations.ClearResize();
     //ArrayOperations.SplitJoin();
-    ArrayOperations.ReverseSentenceChallenge();
+    //ArrayOperations.ReverseSentenceChallenge();
+    //ArrayOperations.ParsingChallenge();
+    FormatAlphanumeric.Basics();
   }
 
   public static void HelloCSharp()

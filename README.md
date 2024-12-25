@@ -55,6 +55,9 @@ Un float est un nombre décimal. Il faut considérer le nombre de chiffre après
 5E+2 = 500
 
 
+### Array
+
+The best way to empty elements from an array would be to count the number of non-null elements by iterating through each item and increment a variable (a counter). Next, you would create a second array that is the size of the counter variable. Finally, you would loop through each element in the original array and copy non-null values into the new array.
 
 ### Formatting
 

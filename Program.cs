@@ -24,8 +24,12 @@ class Program
     //Numbers.start();
     //VariablesTypes.start();
     //DataTypesException.start();
-    Convertion.Start1();
-    Convertion.Start2();
+    //Convertion.Start1();
+    //Convertion.Start2();
+    //ArrayOperations.SortReverse();
+    //ArrayOperations.ClearResize();
+    //ArrayOperations.SplitJoin();
+    ArrayOperations.ReverseSentenceChallenge();
   }
 
   public static void HelloCSharp()

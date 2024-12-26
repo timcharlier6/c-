@@ -1,6 +1,7 @@
 ﻿
 using System.ComponentModel;
 using System.Diagnostics;
+using System.Reflection;
 
 class Program
 {
@@ -31,7 +32,20 @@ class Program
     //ArrayOperations.SplitJoin();
     //ArrayOperations.ReverseSentenceChallenge();
     //ArrayOperations.ParsingChallenge();
-    FormatAlphanumeric.Basics();
+    //FormatAlphanumeric.Basics();
+    //FormatAlphanumeric.StringFormattingChallenge();
+    //BuiltInStringMethods.Position();
+    //BuiltInStringMethods.Position2();
+    //BuiltInStringMethods.Position3();
+    //BuiltInStringMethods.Position4();
+    //BuiltInStringMethods.Position5();
+    //BuiltInStringMethods.Position6();
+    //BuiltInStringMethods.Position7();
+    //BuiltInStringMethods.Modify();
+    //BuiltInStringMethods.Modify2();
+    //GuidedProjectDataVariables.Start();
+    //Methods.Ex1();
+    Methods.Ex2();
   }
 
   public static void HelloCSharp()

@@ -49,7 +49,8 @@ class Program
     //Methods.Ex3();
     //Methods.Ex4();
     //Methods.Ex5();
-    Methods.Ex6();
+    //Methods.Ex6();
+    Game2.Start();
   }
 
   public static void HelloCSharp()

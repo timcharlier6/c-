@@ -45,7 +45,11 @@ class Program
     //BuiltInStringMethods.Modify2();
     //GuidedProjectDataVariables.Start();
     //Methods.Ex1();
-    Methods.Ex2();
+    //Methods.Ex2();
+    //Methods.Ex3();
+    //Methods.Ex4();
+    //Methods.Ex5();
+    Methods.Ex6();
   }
 
   public static void HelloCSharp()

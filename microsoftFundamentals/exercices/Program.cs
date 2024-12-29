@@ -50,7 +50,14 @@ class Program
     //Methods.Ex4();
     //Methods.Ex5();
     //Methods.Ex6();
-    Game2.Start();
+    //Game2.Start();
+    //TryCatch.Ex1();
+    //TryCatch.Ex2();
+    //TryCatch.Ex3();
+    //TryCatch.Ex4();
+    //TryCatch.Ex5();
+    //TryCatch.Ex6();
+    TryCatch.Ex7();
   }
 
   public static void HelloCSharp()

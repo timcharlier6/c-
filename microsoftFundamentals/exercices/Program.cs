@@ -7,7 +7,7 @@ class Program
 {
   static void Main(string[] args)
   {
-
+    Test();
     //HelloCSharp();
     //maxNumber();
     //reverseString();
@@ -57,7 +57,15 @@ class Program
     //TryCatch.Ex4();
     //TryCatch.Ex5();
     //TryCatch.Ex6();
-    TryCatch.Ex7();
+    //TryCatch.Ex7();
+  }
+
+  public static void Test()
+  {
+    string[] names = { "John", "James", "Joan", "Jamie" };
+    string concat = string.Join(", ", names);
+    DateTime date = DateTime.Now;
+    Console.WriteLine(date.ToString("MM/yyyy"));
   }
 
   public static void HelloCSharp()
